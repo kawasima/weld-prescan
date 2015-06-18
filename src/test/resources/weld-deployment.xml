@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<beanDeploymentArchivesModel>
+    <beanDeploymentArchiveModel>
+        <beanClasses>
+            <beanClasses>net.unit8.weld.InjectedObject</beanClasses>
+            <beanClasses>net.unit8.weld.LoggerProducer</beanClasses>
+        </beanClasses>
+        <discoveryMode>ALL</discoveryMode>
+        <enabledAlternativeStereotypes/>
+        <enabledAlternatives/>
+        <enabledDecorators/>
+        <enabledInterceptors/>
+        <id>/home/kawasima/workspace/job-streamer/job-streamer-examples/target/classes</id>
+        <url>ws://127.0.0.1:45102/META-INF/beans.xml</url>
+        <version>1.1</version>
+    </beanDeploymentArchiveModel>
+</beanDeploymentArchivesModel>
