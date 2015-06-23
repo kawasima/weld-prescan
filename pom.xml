@@ -16,6 +16,12 @@
   <name>weld-prescan</name>
   <url>https://github.com/kawasima/weld-prescan</url>
 
+  <scm>
+    <url>scm:git:https://github.com/kawasima/weld-prescan.git</url>
+    <connection>scm:git:https://github.com/kawasima/weld-prescan.git</connection>
+    <developerConnection>scm:git:https://github.com/kawasima/weld-prescan.git</developerConnection>
+  </scm>
+
   <properties>
     <weld.version>2.2.7.Final</weld.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
